@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//bartosz-lesniewski.github.io/hexocean/static/css/main.f9817127.css",
+    "main.js": "//bartosz-lesniewski.github.io/hexocean/static/js/main.3b9a8197.js",
+    "index.html": "//bartosz-lesniewski.github.io/hexocean/index.html",
+    "main.f9817127.css.map": "//bartosz-lesniewski.github.io/hexocean/static/css/main.f9817127.css.map",
+    "main.3b9a8197.js.map": "//bartosz-lesniewski.github.io/hexocean/static/js/main.3b9a8197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9817127.css",
+    "static/js/main.3b9a8197.js"
+  ]
+}
