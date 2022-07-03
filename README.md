@@ -13,7 +13,7 @@ When you will have repository locally, you need install NPM, by typing in termin
 
 To do this project took me about 5 hours.
 
-You can check live preview here:
+You can check live preview here: https://bartosz-lesniewski.github.io/hexocean/
 
 ---
 
